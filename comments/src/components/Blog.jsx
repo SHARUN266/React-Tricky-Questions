@@ -34,6 +34,22 @@ function Blog() {
           }
         ]
       };
+  // CRUD features
+
+  function getElementById(id,tree){
+    let elem={};
+    return elem
+  }
+  // Add comments
+  function addComment(comment,data){
+    // find id
+    // insert into replies
+
+  }
+  // Update
+  
+
+
   return (
     <div>
       <h1>My Comment App</h1>
